@@ -30,7 +30,5 @@ T_{new} = \begin{cases}
 $$
 
 ## Result
-<iframe
-  src="output/html/Alpha_trajectory.html"
-  style="width:100%; height:300px;"
-></iframe>
+![Result](output/img/Alpha_trajectory.png)
+
