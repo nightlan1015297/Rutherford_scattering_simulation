@@ -31,4 +31,4 @@ $$
 
 ## Result
 ![Result](output/img/Alpha_trajectory.png)
-
+[Interactive plot](https://nightlan1015297.github.io/Rutherford_scattering_simulation/)
